@@ -1,6 +1,6 @@
 # Chính Sách Quyền Riêng Tư
 
-Ứng dụng không thu thập, lưu trữ hay chia sẻ bất kỳ dữ liệu cá nhân nào của người dùng.
+Ứng dụng Tính Lương Gross/Net không thu thập, lưu trữ hay chia sẻ bất kỳ dữ liệu cá nhân nào của người dùng.
 
 - Không yêu cầu đăng nhập.
 - Không sử dụng cookie.
